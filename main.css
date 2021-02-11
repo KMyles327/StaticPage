@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+
+
+
+.formcontainer{
+    width: 30vw;
+    color: white;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+}
